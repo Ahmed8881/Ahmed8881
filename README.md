@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/tlr8oxjg/production/1ca7b34a8d5308a03ae186dfe72caabce0327fe2-1456x816.png?w=3840&q=80&fit=clip&auto=format"?\>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed8881&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed8881" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed8881" alt="ahmed8881" /></a> </p>
 
 - 📫 How to reach me **buttahmed2004@gmail.com**
 
