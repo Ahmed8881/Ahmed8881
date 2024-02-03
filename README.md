@@ -1,7 +1,7 @@
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽</h1>
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣 𝕗𝕣𝕠𝕞 ℙ𝕒𝕜𝕚𝕤𝕥𝕒𝕟</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/tlr8oxjg/production/1ca7b34a8d5308a03ae186dfe72caabce0327fe2-1456x816.png?w=3840&q=80&fit=clip&auto=format"?\>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC4E12AQFCW1WDUb8Ipg%2Farticle-cover_image-shrink_720_1280%2F0%2F1645456014612%3Fe%3D2147483647%26v%3Dbeta%26t%3DfHvWJVG85uTIXkFcLNVKUAiWWO3dwyvHhFB-tJCJWZ4&tbnid=Q99MitSI42M5vM&vet=12ahUKEwjC0Y3r_Y6EAxXTUaQEHbbFDXIQMyhRegUIARCuAg..i&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhat-future-coding-michael-spencer-&docid=M-VJvMSpSlv1qM&w=1114&h=720&q=coding%20images&ved=2ahUKEwjC0Y3r_Y6EAxXTUaQEHbbFDXIQMyhRegUIARCuAg?\>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed8881&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed8881" /> </p>
 
 
