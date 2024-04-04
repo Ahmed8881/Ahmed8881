@@ -1,4 +1,5 @@
-
+![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h1 align="center">....𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽....</h1>
 
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣 𝕗𝕣𝕠𝕞 ℙ𝕒𝕜𝕚𝕤𝕥𝕒𝕟</h3>
