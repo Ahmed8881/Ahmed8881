@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fexcited-share-my-second-linkedin-post-coding-community-disha-gupta&psig=AOvVaw2JFZfYnMVa6j3SZHSioQ0b&ust=1712372719590000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCY79GLqoUDFQAAAAAdAAAAABBC)
+<img align=cemter >https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1717632000&v=beta&t=hX_YCFzgQntq30R6e8-jwXiV3uT1JLEk5yn12DTk-QI
 
 <h1 align="center">....𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽....</h1>
 
