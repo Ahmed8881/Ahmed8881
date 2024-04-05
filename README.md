@@ -1,4 +1,4 @@
-<img align=cemter >https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1717632000&v=beta&t=hX_YCFzgQntq30R6e8-jwXiV3uT1JLEk5yn12DTk-QI
+https://www.google.com/imgres?q=coding%20gifs&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fn1dFDLwXu4Qkwy7OJ0%2F200w.gif%3Fcid%3D6c09b952liy8pvo27yk03sf99v3kpxff41tqmbp0ksq9kv8g%26ep%3Dv1_gifs_search%26rid%3D200w.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding-language%3Fsort%3Drelevant&docid=L0bM15aUC19_WM&tbnid=kU3zpatdml1S6M&vet=12ahUKEwiNsp-tjKqFAxVMgv0HHeXuDlI4ChAzegQIJhAA..i&w=200&h=200&hcb=2&ved=2ahUKEwiNsp-tjKqFAxVMgv0HHeXuDlI4ChAzegQIJhAA
 
 <h1 align="center">....𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽....</h1>
 
