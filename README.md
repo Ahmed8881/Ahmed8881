@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fexcited-share-my-second-linkedin-post-coding-community-disha-gupta&psig=AOvVaw2JFZfYnMVa6j3SZHSioQ0b&ust=1712372719590000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCY79GLqoUDFQAAAAAdAAAAABBC)
 
 <h1 align="center">....𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽....</h1>
 
