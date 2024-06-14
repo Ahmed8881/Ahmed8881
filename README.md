@@ -21,5 +21,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed8881&" alt="ahmed8881" /></p>
 
