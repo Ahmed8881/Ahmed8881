@@ -25,3 +25,17 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed8881&" alt="ahmed8881" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mian-abdullah&show_icons=true&locale=en" alt="Mian-Abdullah" /></p> 
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mian-abdullah&show_icons=true&locale=en&layout=compact" alt="Mian-Abdullah" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mian-abdullah&" alt="Mian-Abdullah" /></p>
+<br/>
+<br/>
+
