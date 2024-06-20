@@ -2,8 +2,8 @@
 <h1 align="center">....𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽....</h1>
 
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣 𝕗𝕣𝕠𝕞 ℙ𝕒𝕜𝕚𝕤𝕥𝕒𝕟</h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<img data-target="animated-image.replacedImage" alt="coding" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="display: block; opacity: 1;">
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" height="320" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed8881&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed8881" /> </p>
 - 📫 How to reach me **buttahmed2004@gmail.com**
 <h3 align="left">Connect with me:</h3>
