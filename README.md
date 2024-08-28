@@ -1,5 +1,6 @@
 
-https://github.com/user-attachments/assets/a9c83ff8-42e1-452a-ac97-eb5b9761b3c2
+![Uploading ezgif-2-73badeff0b.gif…]()
+
 
 
 <h1 align="center">....𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽....</h1>
