@@ -1,7 +1,7 @@
 
 ![ezgif-2-73badeff0b](https://github.com/user-attachments/assets/a4f87494-a2fe-467b-a1bb-10678f130167)
 
-<img  alt="GIF" src="https://github.com/user-attachments/assets/a4f87494-a2fe-467b-a1bb-10678f130167" width="340" height="320" />
+<img  alt="GIF" src="https://github.com/user-attachments/assets/a4f87494-a2fe-467b-a1bb-10678f130167" width="600" height="320" />
 
 
 
