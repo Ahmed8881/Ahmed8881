@@ -2,7 +2,6 @@
 ![ezgif-2-73badeff0b](https://github.com/user-attachments/assets/a4f87494-a2fe-467b-a1bb-10678f130167)
 
 
-https://github.com/user-attachments/assets/eb603876-ece3-45e4-ba7c-58075b537f0d
 
 
 
