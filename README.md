@@ -29,4 +29,4 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed8881&" alt="Ahmed8881" /></p>
