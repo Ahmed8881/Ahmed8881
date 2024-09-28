@@ -30,3 +30,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed8881&" alt="Ahmed8881" /></p>
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed8881&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
