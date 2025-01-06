@@ -13,7 +13,9 @@
 <a href="https://instagram.com/ahmed.waqar.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.waqar.1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmed butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed butt" height="30" width="40" /></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed8881&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Ahmed8881">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed8881&layout=donut" alt="Top Langs" />
+</a>
 
  ▅ ▆ ▇ █  𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓐𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:█ ▇ ▆ ▅
  <br>
