@@ -13,9 +13,7 @@
 <a href="https://instagram.com/ahmed.waqar.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.waqar.1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmed butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed butt" height="30" width="40" /></a>
 </p>
-<a href="https://github.com/Ahmed8881">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed8881&layout=donut" alt="Top Langs" />
-</a>
+
 
  ▅ ▆ ▇ █  𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓐𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:█ ▇ ▆ ▅
  <br>
@@ -24,3 +22,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed8881&theme=dark&border_radius=3&card_width=496" alt="GitHub Streak" /></a>
+<a href="https://github.com/Ahmed8881">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed8881&layout=donut" alt="Top Langs" />
+</a>
