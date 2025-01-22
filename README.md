@@ -24,6 +24,3 @@
 <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed8881&theme=dark&border_radius=3&card_width=496" alt="GitHub Streak" />
 </a>
-<a href="https://github.com/Ahmed8881">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed8881&layout=donut" alt="Top Langs" />
-</a>
