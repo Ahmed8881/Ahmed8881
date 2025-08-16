@@ -1,5 +1,4 @@
-<img width="1892" height="791" alt="image" src="https://github.com/user-attachments/assets/6b2e3d96-f5c8-4ddb-907f-af4724397899" />
-
+<img width="1877" height="762" alt="image" src="https://github.com/user-attachments/assets/9d242325-1be1-4632-accf-869f0ce951dc" />
 <h1 align="center">....𝓗𝓲 👋, 𝓘'𝓶 𝓜 𝓐𝓱𝓶𝓮𝓭 𝓑𝓾𝓽𝓽....</h1>
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣 𝕗𝕣𝕠𝕞 ℙ𝕒𝕜𝕚𝕤𝕥𝕒𝕟</h3>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="340" height="320" />
