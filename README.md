@@ -89,15 +89,8 @@ Passionate software engineer focused on building robust full-stack web applicati
 
 <br>
 
-### ▌ 05. FEATURED PROJECTS
 
-<div align="center">
 
-<a href="https://github.com/Ahmed8881">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed8881&repo=Space-Shooter&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
-</a>
-
-</div>
 
 <br>
 
@@ -111,8 +104,3 @@ Passionate software engineer focused on building robust full-stack web applicati
   <br><br>
 </div>
 <br>
-![Ahmed8881-space-shooter](https://github.com/user-attachments/assets/e31092c5-159e-4959-8fa3-c2c1e8c88a9e)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed8881&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-](https://meet.google.com/mnj-xvon-wmz)](https://meet.google.com/mnj-xvon-wmz)
